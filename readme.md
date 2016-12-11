@@ -21,13 +21,17 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. **IRAS** affairs:
 	- Income Tax Return
 
+---
+
 ## Yearly dates
 
-1. [31 Jan](#internal) (internal) - Calculate Revenue, Expense and Gross profit / loss for the previous year
-1. [15 Nov](#iras) - File Form CS online with IRAS
-1. [15 Nov](#acra) - File AGM / Annual Filling with ACRA
+1. [31 Jan](https://github.com/sayanee/company-admin#internal) (internal) - Calculate Revenue, Expense and Gross profit / loss for the previous year
+1. [15 Nov](https://github.com/sayanee/company-admin#iras) - File Form CS online with IRAS
+1. [15 Nov](https://github.com/sayanee/company-admin#acra) - File AGM / Annual Filling with ACRA
 
-### Internal
+---
+
+## Internal
 
 > 31 Jan: Calculate Revenue, Expense and Gross profit / loss for the previous year
 
@@ -42,7 +46,9 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. Import the 2 `*.csv` files into 2 sheets **Income** and **Expense**
 1. Calculate **profit** `revenue - expense` in the 3rd sheet
 
-# IRAS
+---
+
+## IRAS
 
 > 15 Nov: File Form CS online in IRAS
 
@@ -70,7 +76,9 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. Declaration of filing
 	![](img/p6.png)
 
-### ACRA
+---
+
+## ACRA
 
 > 15 Nov: File AGM / Annual Filling with ACRA
 
