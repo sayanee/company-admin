@@ -23,7 +23,7 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 
 ---
 
-## Yearly dates
+## Yearly tasks
 
 1. [31 Jan](https://github.com/sayanee/company-admin#internal) (internal) - Calculate Revenue, Expense and Gross profit / loss for the previous year
 1. [15 Nov](https://github.com/sayanee/company-admin#iras) - File Form CS online with IRAS
