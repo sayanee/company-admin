@@ -24,8 +24,8 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 ## Yearly dates
 
 1. [31 Jan](#internal) (internal) - Calculate Revenue, Expense and Gross profit / loss for the previous year
-1. [15 Nov](#IRAS) - File Form CS online with IRAS
-1. [15 Nov](#ACRA) - File AGM / Annual Filling with ACRA
+1. [15 Nov](#iras) - File Form CS online with IRAS
+1. [15 Nov](#acra) - File AGM / Annual Filling with ACRA
 
 ### Internal
 
