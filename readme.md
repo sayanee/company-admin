@@ -32,10 +32,10 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 > 31 Jan: Calculate Revenue, Expense and Gross profit / loss for the previous year
 
 1. Calculate **revenue** from Invoices in [Freshbooks](https://freshbooks.com): `Reports > Item Sales > Export to > CSV`
-	![](README/revenue.png)
+	![](img/revenue.png)
 
 1. Create **expense** from email (PayPal, eBay, Amazon, etc), OCBC transactions in [Freshbooks](https://crayonio.freshbooks.com): `Reports > Accounting > Expense Report > Export to > CSV`
-	![](README/expense.png)
+	![](img/expense.png)
 
 1. Download the `*.pdf` and `*.csv` of income and expense in the `Income/{YEAR}` and `Expense/{YEAR}` folders in the Dropbox
 1. Create a Google Spreadsheet and keep it in the Google Driver Folder on `YYYY Income & Expense`
@@ -49,26 +49,26 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. Go to <https://mytax.iras.gov.sg>
 1. Fill in the UEN-LOCAL-CO
 1. Click `What I need to do`
-	![](README/p1.png)
+	![](img/p1.png)
 
 1. Click `File Form CS`
-	![](README/p2.png)
+	![](img/p2.png)
 
 1. Part A - All conditions met
-	![](README/p3.png)
+	![](img/p3.png)
 
 1. Part B - Tax Adjustments
-	![](README/p4.png)
+	![](img/p4.png)
 
 1. Fill up the numbers
 	- Net Profit/Loss before Tax as per Accounts (Total income less total expenses per the Profit & Loss Statement.)
 	- Gross Profit/Loss
 (Enter negative sign for Gross Loss, e.g. '-123456')
 	- Expenses
-	![](README/p5.png)
+	![](img/p5.png)
 
 1. Declaration of filing
-	![](README/p6.png)
+	![](img/p6.png)
 
 ### ACRA
 
@@ -77,16 +77,16 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. Go to [Bizfile](http://www.bizfile.gov.sg/)
 1. Explore eServices > Local Company > Filing of Annual Return by Local Company > UEN is `201113398Z`
 
-	![](README/step1.jpg)
+	![](img/step1.jpg)
 1. Fill up **Company Details** and click `Submit`
-	![](README/step2.png)
+	![](img/step2.png)
 
 1. Fill up **Annual Return Details** and click `Submit`
-	![](README/step3.png)
-	![](README/step4.png)
+	![](img/step3.png)
+	![](img/step4.png)
 
 1. Fill up **Declaration** and click `Submit`
-	![](README/step5.png)
+	![](img/step5.png)
 1. Preview and pay `SGD 60`
 1. Print the Acknowledgement
-	![](README/step6.png)
+	![](img/step6.png)
