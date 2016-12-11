@@ -83,7 +83,7 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 > 15 Nov: File AGM / Annual Filling with ACRA
 
 1. Go to [Bizfile](http://www.bizfile.gov.sg/)
-1. Explore eServices > Local Company > Filing of Annual Return by Local Company > UEN is `201113398Z`
+1. Explore eServices > Local Company > Filing of Annual Return by Local Company
 
 	![](img/step1.jpg)
 1. Fill up **Company Details** and click `Submit`
