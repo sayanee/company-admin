@@ -16,10 +16,10 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. **Small EPC**: EPC with annual revenue up to S$5 million or less for financial years
 2. **ECI**: Estimated Chargeable Income
 3. **ACRA** affairs:
-	  - AGM (Annual General Meeting)
-	  - AR (Annual Returns)
+    - AGM (Annual General Meeting)
+      - AR (Annual Returns)
 4. **IRAS** affairs:
-  	- Income Tax Return
+   - Income Tax Return
 
 ---
 
@@ -35,16 +35,34 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 
 > 31 Jan: Calculate Revenue, Expense and Gross profit / loss for the previous year
 
-1. Calculate **revenue** from Invoices in [Freshbooks](https://freshbooks.com): `Reports > Item Sales > Export to > CSV`
+1. Click **Profit & Loss** from Dashboard in [Freshbooks](https://my.freshbooks.com)
+  ![](img/dashboard.png)
+
+2. Choose `for Last Year (SGD)` in timeline
+
+3. Note **Income / Revenue ** generated
+
   ![](img/revenue.png)
 
-2. Create **expense** from email (PayPal, eBay, Amazon, etc), OCBC transactions in [Freshbooks](https://crayonio.freshbooks.com): `Reports > Accounting > Expense Report > Export to > CSV`
-  ![](img/expense.png)
+4. Add other **expenses** from email (PayPal, eBay, Amazon, etc) and bank transactions
 
-3. Download the `*.pdf` and `*.csv` of income and expense in the `Income/{YEAR}` and `Expense/{YEAR}` folders in the Dropbox
-4. Create a Google Spreadsheet and keep it in the Google Driver Folder on `YYYY Income & Expense`
-5. Import the 2 `*.csv` files into 2 sheets **Income** and **Expense**
-6. Calculate **profit** `revenue - expense` in the 3rd sheet
+5. Note **Expense** generated![](img/expense.png)
+
+6. Download `*.csv` format of income and expense
+
+   ![](img/export.png)
+
+7. Store the `*.csv` files in the `Income` and `Expense` folders in the Dropbox
+
+8. Copy a **Income & Expense** spreadsheet from previous year in Google Drive
+
+9. Delete sheets **Income** and **Expense**
+
+10. Import the 2 `*.csv` files into 2 sheets **Income** and **Expense**
+
+  ![](img/import.png)
+
+11. Calculate **Gross Profit/Loss** in the **Overall** sheet by linking the cells for **Revenue** and **Expense**
 
 ---
 
@@ -53,28 +71,28 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 > 15 Nov: File Form CS online in IRAS
 
 1. Go to <https://mytax.iras.gov.sg>
-2. Fill in the UEN-LOCAL-CO
-3. Click `What I need to do`
+2. Fill in the `UEN-LOCAL-CO`
+3. Click `Next`
   ![](img/p1.png)
-
-4. Click `File Form CS`
+4. Click `File Form C-S/C`
   ![](img/p2.png)
-
-5. Part A - All conditions met
+5. Ensure the information in the next few steps are correct
+  ![](img/p2a.png)
+  ![](img/p2b.png)
+6. Ensure company has revenue of less than SGD 5 million to submit Form C-S
+  ![](img/p2c.png)
+7. Complete **Part A** to ensure qualifying conditions are met for filing Form C-S
   ![](img/p3.png)
-
-6. Part B - Tax Adjustments
+8. Complete **Part B** for Tax Adjustments
   ![](img/p4.png)
-
-7. Fill up the numbers
-	  - Net Profit/Loss before Tax as per Accounts (Total income less total expenses per the Profit & Loss Statement.)
-	  - Gross Profit/Loss
-	    (Enter negative sign for Gross Loss, e.g. '-123456')
-	  - Expenses
-    	![](img/p5.png)
-
-8. Declaration of filing
+  ![](img/p4b.png)
+9. Complete **Part C** for Information from Financial Statement
+   ![](img/p5.png)
+   ![](img/p5a.png)
+10. Complete **Declaration** of filing
   ![](img/p6.png)
+11. Print **Acknowledgement**
+   ![](img/p7.png)
 
 ---
 
@@ -83,23 +101,24 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 > 15 Nov: File AGM / Annual Filling with ACRA
 
 1. Go to [Bizfile](http://www.bizfile.gov.sg/)
-1. Click `Explore eServices` > `Local Company`
-	![](img/menu.jpg)
-1. Click `Filing of Annual Return by Local Company`
-	![](img/annual-filing.jpg)
-1. Fill in UEN number
+2. Click `Explore eServices` > `Local Company`
+  ![](img/menu.jpg)
+3. Click `Filing of Annual Return by Local Company`
+  ![](img/annual-filing.jpg)
+4. Fill in UEN number
   ![](img/step1.jpg)
-3. Fill up **Company Details** and click `Submit`
+5. Fill up **Company Details** and click `Submit`
   ![](img/step2.png)
 
-4. Fill up **Annual Return Details** and click `Submit`
+6. Fill up **Annual Return Details** and click `Submit`
   ![](img/step3.png)
   ![](img/step4.png)
 
-5. Fill up **Declaration** and click `Submit`
+7. Fill up **Declaration** and click `Submit`
   ![](img/step5.png)
   ![](img/step5a.png)
 
-6. Preview and pay `SGD 60`
-7. Print the Acknowledgement
+8. Preview and pay `SGD 60`
+9. Print the Acknowledgement
   ![](img/step6.png)
+
