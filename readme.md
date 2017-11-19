@@ -16,10 +16,10 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
 1. **Small EPC**: EPC with annual revenue up to S$5 million or less for financial years
 2. **ECI**: Estimated Chargeable Income
 3. **ACRA** affairs:
-  - AGM (Annual General Meeting)
-  - AR (Annual Returns)
+	  - AGM (Annual General Meeting)
+	  - AR (Annual Returns)
 4. **IRAS** affairs:
-  - Income Tax Return
+  	- Income Tax Return
 
 ---
 
@@ -67,11 +67,11 @@ Check company compliance status on [BizFile](http://www.bizfile.gov.sg) anytime 
   ![](img/p4.png)
 
 7. Fill up the numbers
-  - Net Profit/Loss before Tax as per Accounts (Total income less total expenses per the Profit & Loss Statement.)
-  - Gross Profit/Loss
-    (Enter negative sign for Gross Loss, e.g. '-123456')
-  - Expenses
-    ![](img/p5.png)
+	  - Net Profit/Loss before Tax as per Accounts (Total income less total expenses per the Profit & Loss Statement.)
+	  - Gross Profit/Loss
+	    (Enter negative sign for Gross Loss, e.g. '-123456')
+	  - Expenses
+    	![](img/p5.png)
 
 8. Declaration of filing
   ![](img/p6.png)
