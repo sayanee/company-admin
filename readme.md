@@ -1,12 +1,12 @@
 # Company admin
 
-> Filling annual returns (through ACRA) and tax (through IRAS) for Singapore based small company.
+> Filling annual returns (through [ACRA](https://www.acra.gov.sg/home/)) and tax (through [IRAS](https://www.iras.gov.sg/irashome/default.aspx)) for Singapore based small company.
 
 ## Yearly tasks
 
 - [ ] **[Internal](internal.md)** on 31 Jan
     - Calculate Revenue, Expense and Gross profit / loss for the previous year
-- [ ] **[IRAS](iras.md** on 15 Nov
+- [ ] **[IRAS](iras.md)** on 15 Nov
     - File Form CS online with IRAS
 - [ ] **[ACRA](acra.md)** on 15 Nov
     - File AGM / Annual Filling with ACRA
