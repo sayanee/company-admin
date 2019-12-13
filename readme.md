@@ -2,6 +2,10 @@
 
 > Filling annual returns (through [ACRA](https://www.acra.gov.sg/home/)) and tax (through [IRAS](https://www.iras.gov.sg/irashome/default.aspx)) for Singapore based small company.
 
+## Pre-requisite
+
+This documentation only contains the steps for a small [Solvent Exempt Private Companies (EPCs)](https://www.acra.gov.sg/xbrl-filing-and-resources/who-needs-to-file-financial-statements) which are exempt from filing financial statements. 
+
 ## Yearly tasks
 
 - [ ] **[Internal](internal.md)** on 31 Jan
