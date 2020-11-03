@@ -6,6 +6,12 @@
 
 This documentation only contains the steps for a small [Solvent Exempt Private Companies (EPCs)](https://www.acra.gov.sg/xbrl-filing-and-resources/who-needs-to-file-financial-statements) which are exempt from filing financial statements. Check details on the [qualification criteria for exemption of audited accounts](https://www.acra.gov.sg/legislation/legislative-reform/companies-act-reform/companies-amendment-act-2014/two-phase-implementation-of-companies-amendment-act-2014/more-details-on-small-company-concept-for-audit-exemption).
 
+- Small
+- Exempt 
+- Private
+- Active (not dormant)
+- Solvent (not insolvent)
+
 ## Yearly tasks
 
 - [ ] **[Internal](internal.md)** on 31 Jan
