@@ -6,8 +6,9 @@
 
 This documentation only contains the steps for a small [Solvent Exempt Private Companies (EPCs)](https://www.acra.gov.sg/xbrl-filing-and-resources/who-needs-to-file-financial-statements) which are exempt from filing financial statements. Check details on the [qualification criteria for exemption of audited accounts](https://www.acra.gov.sg/legislation/legislative-reform/companies-act-reform/companies-amendment-act-2014/two-phase-implementation-of-companies-amendment-act-2014/more-details-on-small-company-concept-for-audit-exemption).
 
+- Eligible for [Form C-S Lite](https://www.iras.gov.sg/irashome/Businesses/Companies/Filing-Taxes--Form-C-S-Form-C-/Form-C-S--Lite-/)
 - Small
-- Exempt 
+- [Exempt](https://www.acra.gov.sg/legislation/legislative-reform/companies-act-reform/companies-amendment-act-2014/two-phase-implementation-of-companies-amendment-act-2014/more-details-on-small-company-concept-for-audit-exemption)
 - Private
 - Active (not dormant)
 - Solvent (not insolvent)
