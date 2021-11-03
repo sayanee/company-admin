@@ -3,7 +3,6 @@
 > 31 Jan: Calculate Revenue, Expense and Gross profit / loss for the previous year
 
 1. Get expenses from various sources:
-    - [Freshbooks](https://my.freshbooks.com)
     - PayPal
     - Amazon
     - RS Components / Mouser / AliExpress / Name.com
