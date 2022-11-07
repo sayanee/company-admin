@@ -22,7 +22,6 @@
 1. Complete **Part A** to ensure qualifying conditions are met for filing Form C-S
 
     ![](img/iras-part-a.jpg)
-    ![](img/iras-part-a1.jpg)
 1. Complete **Part B** for Tax Adjustments
 
     ![](img/iras-part-b.jpg)
