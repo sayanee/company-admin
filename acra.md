@@ -3,12 +3,9 @@
 > 15 Nov: File AGM / Annual Filling with ACRA
 
 1. Go to [Bizfile](http://www.bizfile.gov.sg/)
-1. Click menu `eServices` > `Local Company` > `Annual Filing`
+1. Click menu `eServices` > `Local Company` > `Annual Filing > Annual Return by Local Company (For FYE from 31 Aug 2018)`
 
     ![](img/acra-menu.jpg)
-1. Click `Annual Return by Local Company (For FYE from 31 Aug 2018)`
-
-    ![](img/acra-annual-filing.jpg)
 1. Add UEN Number and click next
 
     ![](img/acra-uen.jpg)
