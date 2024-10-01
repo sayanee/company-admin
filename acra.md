@@ -2,7 +2,8 @@
 
 > 15 Nov: File AGM / Annual Filling with ACRA
 
-1. Go to [Bizfile](http://www.bizfile.gov.sg/)
+1. Go to [Bizfile](http://www.bizfile.gov.sg/) and login with Singpass
+1. Open the Google Sheets "Income & Expense" for the previous year
 1. Click menu `eServices` > `Local Company` > `Annual Filing > Annual Return by Local Company (For FYE from 31 Aug 2018)`
 
     ![](img/acra-menu.jpg)
