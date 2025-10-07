@@ -29,8 +29,6 @@
 
     ![](img/iras-part-c.jpg)
 1. Complete **Confirmation** and **Declaration**
-
-    ![](img/iras-confirmation.jpg)
 1. Print **Acknowledgement** as PDF. Take note of the **Estimated Tax Payable**.
 
     ![](img/iras-ack.jpg)

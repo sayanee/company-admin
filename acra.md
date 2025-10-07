@@ -3,22 +3,27 @@
 > 15 Nov: File AGM / Annual Filling with ACRA
 
 1. Go to [Bizfile](http://www.bizfile.gov.sg/) and login with Singpass
-1. Open the Google Sheets "Income & Expense" for the previous year
-1. Click menu `eServices` > `Local Company` > `Annual Filing > Annual Return by Local Company (For FYE from 31 Aug 2018)`
+1. Click menu `Annual Filing` > `Local Company` > `File Annual Return`
 
     ![](img/acra-menu.jpg)
-1. Add UEN Number and click next
+1. Choose the company type and status
 
-    ![](img/acra-uen.jpg)
-1. Under Tab 1, **Annual Return Details** check the details
+    ![](img/acra-company-type.jpg)
+1. Choose the AGM details
 
-    ![](img/acra-tab-1.jpg)
-1. Under Tab 2, **Company Details** check the details
+    ![](img/acra-agm.jpg)
+1. Choose the register of controllers details
 
-    ![](img/acra-tab-2.jpg)
-1. Confirm all the details
+    ![](img/acra-roc.jpg)
+1. Choose the options for register of nominee directors
 
-    ![](img/acra-confirm.jpg)
+    ![](img/acra-nominee.jpg)
+1. Choose the options for register of nominee shareholders
+
+    ![](img/acra-nominee2.jpg)
+1. Choose the options Financial Statements
+
+    ![](img/acra-financial.jpg)
 1. Make the payment of SGD 60.
 
     ![](img/acra-payment.jpg)
